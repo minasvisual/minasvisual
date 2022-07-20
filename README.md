@@ -8,6 +8,7 @@
 
 - <a href="https://entertheshadows.com.br">Enter The Shadows Radio</a>
 - <a href="https://myguild.com.br">MyGuild E-Sports</a>
+- <a href="https://coursestube.com">Courses Tube - Free Courses</a>
 - <a href="https://github.com/minasvisual/pluggable-dashboard">Pluggable Dashboard</a>
 
 <!--
